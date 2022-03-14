@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://www.youtube.com/c/FullstacKAGE"><img src="./assets/github_profile_banner.jpg" /></a></p>
 
-<h1 align="center">Xin chào Mọi người, Mình là Phú. Rất vui được làm quen với mọi người!</h1>
+<h1 align="center">Xin chào Mọi người, Mình là Phú!</h1>
 <h1 align="center">はじめまして、フーです. 宜しくお願いします!</h1>
 
 <br />
@@ -21,3 +21,19 @@
 <a href="https://fullstackage.medium.com">
   <img align="left" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
 </a>
+
+#### Latest Medium Activities
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+<!-- MEDIUM:START -->
+</table>
+
+<!-- MEDIUM:END -->
+ 
+#### Recent Youtube Activities
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+<!-- YOUTUBE:START -->
+ 
+<!-- YOUTUBE:END -->
+</table>
