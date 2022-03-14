@@ -42,7 +42,7 @@
 - [Lý thuyết — Tìm hiểu cơ bản về Kubernetes, Các thành phần chính trong một Kubernetes Cluster và…](https://fullstackage.medium.com/l%C3%BD-thuy%E1%BA%BFt-t%C3%ACm-hi%E1%BB%83u-c%C6%A1-b%E1%BA%A3n-v%E1%BB%81-kubernetes-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-ch%C3%ADnh-trong-m%E1%BB%99t-kubernetes-cluster-v%C3%A0-adfb81aceb9b?source=rss-7adc42f88671------2)
 <!-- MEDIUM:END -->
 <br />
- ➡️ [more blog posts...](https://fullstackage.medium.com)
+ ➡️ <a href="https://fullstackage.medium.com">More blog posts..</a>
 <br />
 
 ---
@@ -57,5 +57,5 @@
 - [Mini Project - Terraform, Cloud Function, Bitbucket Pipeline &lpar;Hands on&rpar;](https://www.youtube.com/watch?v=KSMD6HAJXx4)
 <!-- YOUTUBE:END -->
 <br />
-➡️ [more videos...](https://www.youtube.com/c/FullstacKAGE)
+➡️ <a href="https://www.youtube.com/c/FullstacKAGE">More blog posts..</a>
 <br />
