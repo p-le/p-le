@@ -30,7 +30,5 @@
 #### Recent Youtube Activities
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-<!-- YOUTUBE:START -->
- 
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><tr><td>Hands-on Google Kubernetes Engine, Infrastructure as Code, GitHub Actions &lpar;Part II&rpar;</td><td>https://www.youtube.com/watch?v=kaXEuToIFik</td></tr><tr><td>Google Kubernetes Engine là gì? Kiến thức cơ bản  &lpar;GKE CI/CD Phần 1&rpar;</td><td>https://www.youtube.com/watch?v=TQf3mpngNXE</td></tr><tr><td>Docker Base Image &amp; Image Tag khi sử dụng Public Image</td><td>https://www.youtube.com/watch?v=_speZht01tk</td></tr><tr><td>My Wedding Video &lpar;Tokyo, Japan 2022-01-22&rpar;</td><td>https://www.youtube.com/watch?v=Sla6EXr93fQ</td></tr><tr><td>Mini Project - Terraform, Cloud Function, Bitbucket Pipeline &lpar;Hands on&rpar;</td><td>https://www.youtube.com/watch?v=KSMD6HAJXx4</td></tr><!-- YOUTUBE:END -->
 </table>
