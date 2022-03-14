@@ -10,3 +10,14 @@
 
 | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-le&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Phu Le's github stats" /></a> | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-le&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+#### Social Networks
+<a href="https://www.youtube.com/c/FullstacKAGE">
+  <img align="right" alt="FullstacKAGE | Youtube" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/youtube.svg" />
+</a>
+<a href="https://www.facebook.com/fullstackage">
+  <img align="right" alt="FullstacKAGE | Facebook" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/facebook.svg" />
+</a>
+<a href="https://fullstackage.medium.com">
+  <img align="right" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
+</a>
