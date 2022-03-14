@@ -22,11 +22,10 @@
   <img align="left" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
 </a>
 
-<h1>Latest Medium Activities</h1>
-
+#### Latest Medium Activities
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
  
-<h1>Recent Youtube Activities</h1>
+#### Recent Youtube Activities
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
