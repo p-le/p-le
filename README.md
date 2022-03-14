@@ -11,7 +11,7 @@
 | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-le&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Phu Le's github stats" /></a> | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-le&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Social Networks
+<h1>Social Networks</h1>
 <a href="https://www.youtube.com/c/FullstacKAGE">
   <img align="left" alt="FullstacKAGE | Youtube" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/youtube.svg" />
 </a>
@@ -22,18 +22,11 @@
   <img align="left" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
 </a>
 
-#### Latest Medium Activities
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-<!-- MEDIUM:START -->
-</table>
+<h1>Latest Medium Activities</h1>
 
+<!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
  
-#### Recent Youtube Activities
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
+<h1>Recent Youtube Activities</h1>
 <!-- YOUTUBE:START -->
- 
 <!-- YOUTUBE:END -->
-</table>
