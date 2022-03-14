@@ -1,8 +1,11 @@
 
 <p align="center"><a href="https://www.youtube.com/c/FullstacKAGE"><img src="./assets/github_profile_banner.jpg" /></a></p>
 
-<h3 align="center">Xin chào Mọi người, Mình là Phú! - aka [FullstacKAGE][youtube] 👋</h3>
+<h3 align="center">Xin chào Mọi người, Mình là Phú! - aka [FullstacKAGE](https://www.youtube.com/c/FullstacKAGE) 👋</h3>
 <h3 align="center">はじめまして、フーです. 宜しくお願いします!</h3>
+
+---
+
 <p align="center">
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 </p>
@@ -25,6 +28,8 @@
 | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-le&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Phu Le's github stats" /></a> | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-le&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+---
+
 ### Latest Medium Activities
 
 <!-- MEDIUM:START -->
@@ -33,8 +38,11 @@
 - [Thực hành | Set up Kubernetes Cluster trên AWS Elastic Kubernetes Service !](https://fullstackage.medium.com/th%E1%BB%B1c-h%C3%A0nh-set-up-kubernetes-cluster-tr%C3%AAn-aws-elastic-kubernetes-service-e8f3188c5d35?source=rss-7adc42f88671------2)
 - [Lý thuyết — Tìm hiểu cơ bản về Kubernetes, Các thành phần chính trong một Kubernetes Cluster và…](https://fullstackage.medium.com/l%C3%BD-thuy%E1%BA%BFt-t%C3%ACm-hi%E1%BB%83u-c%C6%A1-b%E1%BA%A3n-v%E1%BB%81-kubernetes-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-ch%C3%ADnh-trong-m%E1%BB%99t-kubernetes-cluster-v%C3%A0-adfb81aceb9b?source=rss-7adc42f88671------2)
 <!-- MEDIUM:END -->
- 
 <br />
+ ➡️ [more blog posts...](https://fullstackage.medium.com)
+<br />
+
+---
 
 ### Recent Youtube Activities
 
@@ -45,7 +53,6 @@
 - [My Wedding Video &lpar;Tokyo, Japan 2022-01-22&rpar;](https://www.youtube.com/watch?v=Sla6EXr93fQ)
 - [Mini Project - Terraform, Cloud Function, Bitbucket Pipeline &lpar;Hands on&rpar;](https://www.youtube.com/watch?v=KSMD6HAJXx4)
 <!-- YOUTUBE:END -->
-
 <br />
-
-[youtube]: https://www.youtube.com/c/FullstacKAGE
+➡️ [more videos...](https://www.youtube.com/c/FullstacKAGE)
+<br />
