@@ -6,12 +6,12 @@
 
 <br />
 
-#### GitHub Stats
+<h2>GitHub Stats</h2>
 
 | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-le&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Phu Le's github stats" /></a> | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-le&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h1>Social Networks</h1>
+<h2>Social Networks</h2>
 <a href="https://www.youtube.com/c/FullstacKAGE">
   <img align="left" alt="FullstacKAGE | Youtube" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/youtube.svg" />
 </a>
@@ -22,7 +22,7 @@
   <img align="left" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
 </a>
 
-#### Latest Medium Activities
+<h2>Latest Medium Activities</h2>
 <!-- MEDIUM:START -->
 - [Hands-on Walkthrough GKE &amp; DevOps &lpar;Part I&rpar; — Provision Google Cloud Infrastructure sử dụng…](https://fullstackage.medium.com/hands-on-walkthrough-gke-devops-part-i-provision-google-cloud-infrastructure-s%E1%BB%AD-d%E1%BB%A5ng-f7a1bb90d109?source=rss-7adc42f88671------2)
 - [Hands-on nhập môn Infrastructure as Code — Terraform + Google Cloud Platform](https://fullstackage.medium.com/hands-on-nh%E1%BA%ADp-m%C3%B4n-infrastructure-as-code-terraform-google-cloud-platform-918a73d6812b?source=rss-7adc42f88671------2)
@@ -30,7 +30,7 @@
 - [Lý thuyết — Tìm hiểu cơ bản về Kubernetes, Các thành phần chính trong một Kubernetes Cluster và…](https://fullstackage.medium.com/l%C3%BD-thuy%E1%BA%BFt-t%C3%ACm-hi%E1%BB%83u-c%C6%A1-b%E1%BA%A3n-v%E1%BB%81-kubernetes-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-ch%C3%ADnh-trong-m%E1%BB%99t-kubernetes-cluster-v%C3%A0-adfb81aceb9b?source=rss-7adc42f88671------2)
 <!-- MEDIUM:END -->
  
-#### Recent Youtube Activities
+<h2>Recent Youtube Activities</h2>
 <!-- YOUTUBE:START -->
 - [Hands-on Google Kubernetes Engine, Infrastructure as Code, GitHub Actions &lpar;Part II&rpar;](https://www.youtube.com/watch?v=kaXEuToIFik)
 - [Google Kubernetes Engine là gì? Kiến thức cơ bản  &lpar;GKE CI/CD Phần 1&rpar;](https://www.youtube.com/watch?v=TQf3mpngNXE)
