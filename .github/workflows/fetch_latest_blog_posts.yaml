@@ -16,7 +16,6 @@ jobs:
           comment_tag_name: "MEDIUM"
           max_post_count: 10
           feed_list: https://fullstackage.medium.com/feed
-          template: "<tr><td>$title</td><td>$url</td></tr>"
 
       - name: Fetch Videos from Youtube Feed
         uses: gautamkrishnar/blog-post-workflow@master
@@ -24,4 +23,3 @@ jobs:
           comment_tag_name: "YOUTUBE"
           max_post_count: 5
           feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCRWDR9vuoRny63i464-pZrg
-          template: "<tr><td>$title</td><td>$url</td></tr>"
