@@ -13,11 +13,11 @@
 
 #### Social Networks
 <a href="https://www.youtube.com/c/FullstacKAGE">
-  <img align="right" alt="FullstacKAGE | Youtube" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/youtube.svg" />
+  <img align="left" alt="FullstacKAGE | Youtube" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/youtube.svg" />
 </a>
 <a href="https://www.facebook.com/fullstackage">
-  <img align="right" alt="FullstacKAGE | Facebook" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/facebook.svg" />
+  <img align="left" alt="FullstacKAGE | Facebook" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/facebook.svg" />
 </a>
 <a href="https://fullstackage.medium.com">
-  <img align="right" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
+  <img align="left" alt="FullstacKAGE | Medium" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/medium.svg" />
 </a>
