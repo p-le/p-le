@@ -1,14 +1,17 @@
 
 <p align="center"><a href="https://www.youtube.com/c/FullstacKAGE"><img src="./assets/github_profile_banner.jpg" /></a></p>
 
-<h3 align="center">Xin chào Mọi người, Mình là Phú! - aka [FullstacKAGE](https://www.youtube.com/c/FullstacKAGE) 👋</h3>
+<h3 align="center">Xin chào Mọi người, Mình là Phú! - aka <a href="https://www.youtube.com/c/FullstacKAGE">FullstacKAGE]</a> 👋</h3>
 <h3 align="center">はじめまして、フーです. 宜しくお願いします!</h3>
 
 ---
 
 <p align="center">
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+  <a href="https://www.youtube.com/c/FullstacKAGE">
+    <img alt="FullstacKAGE | Youtube Subcribers"src="https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge" />
+  </a>
 </p>
+
 <p align="center">
   <a href="https://www.youtube.com/c/FullstacKAGE">
     <img alt="FullstacKAGE | Youtube" width="48px" src="https://raw.githubusercontent.com/p-le/p-le/main/assets/youtube.svg" >
