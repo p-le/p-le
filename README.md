@@ -1,14 +1,14 @@
 
 <p align="center"><a href="https://www.youtube.com/c/FullstacKAGE"><img src="./assets/github_profile_banner.jpg" /></a></p>
 
-<h3 align="center">Xin chào Mọi người, Mình là Phú! - aka <a href="https://www.youtube.com/c/FullstacKAGE">FullstacKAGE]</a> 👋</h3>
+<h3 align="center">Xin chào Mọi người, Mình là Phú! - aka <a href="https://www.youtube.com/c/FullstacKAGE">FullstacKAGE</a> 👋</h3>
 <h3 align="center">はじめまして、フーです. 宜しくお願いします!</h3>
 
 ---
 
 <p align="center">
   <a href="https://www.youtube.com/c/FullstacKAGE">
-    <img alt="FullstacKAGE | Youtube Subcribers"src="https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge" />
+    <img alt="FullstacKAGE | Youtube Subcribers"src="https://img.shields.io/youtube/channel/subscribers/UCRWDR9vuoRny63i464-pZrg?logo=youtube&logoColor=red&style=for-the-badge" />
   </a>
 </p>
 
