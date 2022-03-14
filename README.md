@@ -25,10 +25,7 @@
 #### Latest Medium Activities
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-<!-- MEDIUM:START -->
-</table>
-
-<!-- MEDIUM:END -->
+<!-- MEDIUM:START --><tr><td>Hands-on Walkthrough GKE &amp; DevOps &lpar;Part I&rpar; — Provision Google Cloud Infrastructure sử dụng…</td><td>https://fullstackage.medium.com/hands-on-walkthrough-gke-devops-part-i-provision-google-cloud-infrastructure-s%E1%BB%AD-d%E1%BB%A5ng-f7a1bb90d109?source=rss-7adc42f88671------2</td></tr><tr><td>Hands-on nhập môn Infrastructure as Code — Terraform + Google Cloud Platform</td><td>https://fullstackage.medium.com/hands-on-nh%E1%BA%ADp-m%C3%B4n-infrastructure-as-code-terraform-google-cloud-platform-918a73d6812b?source=rss-7adc42f88671------2</td></tr><tr><td>Thực hành | Set up Kubernetes Cluster trên AWS Elastic Kubernetes Service !</td><td>https://fullstackage.medium.com/th%E1%BB%B1c-h%C3%A0nh-set-up-kubernetes-cluster-tr%C3%AAn-aws-elastic-kubernetes-service-e8f3188c5d35?source=rss-7adc42f88671------2</td></tr><tr><td>Lý thuyết — Tìm hiểu cơ bản về Kubernetes, Các thành phần chính trong một Kubernetes Cluster và…</td><td>https://fullstackage.medium.com/l%C3%BD-thuy%E1%BA%BFt-t%C3%ACm-hi%E1%BB%83u-c%C6%A1-b%E1%BA%A3n-v%E1%BB%81-kubernetes-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-ch%C3%ADnh-trong-m%E1%BB%99t-kubernetes-cluster-v%C3%A0-adfb81aceb9b?source=rss-7adc42f88671------2</td></tr><!-- MEDIUM:END -->
  
 #### Recent Youtube Activities
 <table>
