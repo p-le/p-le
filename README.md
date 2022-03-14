@@ -1,7 +1,7 @@
 
-<p align="center"><a href="https://www.youtube.com/c/FullstacKAGE"><img width="80%" src="./assets/github_profile_banner.jpg" /></a></p>
+<p align="center"><a href="https://www.youtube.com/c/FullstacKAGE"><img src="./assets/github_profile_banner.jpg" /></a></p>
 
-Hajimemashite, Phu Desu. Yoroshiku Onegaisimasu!
+<h1 align="center">Hajimemashite, Phu Desu. Yoroshiku Onegaisimasu!</h1>
 
 <br />
 
