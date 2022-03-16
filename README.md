@@ -11,7 +11,7 @@
     <img alt="<Youtube Subcribers>" src="https://img.shields.io/youtube/channel/subscribers/UCRWDR9vuoRny63i464-pZrg?logo=youtube&logoColor=red&style=for-the-badge" />
   </a>
   <a href="https://streamelements.com/fullstackage/tip" target="_blank">
-    <img alt="<Tip Me>" src="https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellow?label=Tip&style=for-the-badge" />
+    <img alt="<Tip Me>" src="https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellow?label=Tip&style=for-the-badge&logo=buymeacoffee" />
   </a>
 </p>
 
