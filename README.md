@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/FullstacKAGE" target="_blank">
-    <img alt="FullstacKAGE | Youtube Subcribers"src="https://img.shields.io/youtube/channel/subscribers/UCRWDR9vuoRny63i464-pZrg?logo=youtube&logoColor=red&style=for-the-badge" />
+    <img alt="<Youtube Subcribers>" src="https://img.shields.io/youtube/channel/subscribers/UCRWDR9vuoRny63i464-pZrg?logo=youtube&logoColor=red&style=for-the-badge" />
   </a>
   <a href="https://streamelements.com/fullstackage/tip" target="_blank">
-    https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellow?label=Tip&style=flat-square
+    <img alt="<Tip Me>" src="https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellow?label=Tip&style=flat-square" />
   </a>
 </p>
 
