@@ -1,5 +1,7 @@
 name: Fetch Latest Blog Post Workflow
 on:
+  schedule:
+    - cron: 0 0 * * SAT # Runs weekly, Saturday
   workflow_dispatch:
 
 jobs:
@@ -14,6 +16,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM"
+          commit_message: "Updated readme with the latest Medium data"
           max_post_count: 10
           feed_list: https://fullstackage.medium.com/feed
 
@@ -22,4 +25,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           max_post_count: 5
+          commit_message: "Updated readme with the latest Youtube data"
           feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCRWDR9vuoRny63i464-pZrg
