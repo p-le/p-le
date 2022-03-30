@@ -64,11 +64,11 @@ Practice Infrastructure As Code with my templates
 ### Recent Youtube Activities
 
 <!-- YOUTUBE:START -->
+- [Vai trò của CLOUD ENGINEER và Những KỸ NĂNG KIẾN THỨC QUAN TRỌNG cần có #fullstackage](https://www.youtube.com/watch?v=L4DeSlVhXqw)
 - [Linux Command Basic: free - Kiểm tra thông tin Memory #shorts #fullstackage #linux](https://www.youtube.com/watch?v=xCMkALu7uk4)
 - [Sử dụng Custom Domain với GitHub Pages - Configure Nhanh chóng &amp; Đơn giản #fullstackage](https://www.youtube.com/watch?v=-EKPeYN9Jy4)
 - [Hands-on Google Kubernetes Engine, Infrastructure as Code, GitHub Actions &lpar;Part II&rpar;](https://www.youtube.com/watch?v=kaXEuToIFik)
 - [Google Kubernetes Engine là gì? Kiến thức cơ bản  &lpar;GKE CI/CD Phần 1&rpar;](https://www.youtube.com/watch?v=TQf3mpngNXE)
-- [Docker Base Image &amp; Image Tag khi sử dụng Public Image](https://www.youtube.com/watch?v=_speZht01tk)
 <!-- YOUTUBE:END -->
 <br />
 ➡️ <a href="https://www.youtube.com/c/FullstacKAGE">More blog posts..</a>
