@@ -48,6 +48,7 @@ Practice Infrastructure As Code with my templates
 ### Latest Medium Activities
 
 <!-- MEDIUM:START -->
+- [Vai trò của CLOUD ENGINEER &amp; Những KỸ NĂNG KIẾN THỨC QUAN TRỌNG cần có](https://fullstackage.medium.com/cloud-engineer-vai-tr%C3%B2-v%C3%A0-k%C4%A9-n%C4%83ng-c%E1%BA%A7n-thi%E1%BA%BFt-ed65bf5a6b82?source=rss-7adc42f88671------2)
 - [Hướng dẫn tạo GitHub Profile đẹp, sang chảnh nhanh chóng](https://fullstackage.medium.com/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-t%E1%BA%A1o-github-profile-%C4%91%E1%BA%B9p-sang-ch%E1%BA%A3nh-nhanh-ch%C3%B3ng-323e3bc663d0?source=rss-7adc42f88671------2)
 - [Hands-on Walkthrough GKE &amp; DevOps &lpar;Part I&rpar; — Provision Google Cloud Infrastructure sử dụng…](https://fullstackage.medium.com/hands-on-walkthrough-gke-devops-part-i-provision-google-cloud-infrastructure-s%E1%BB%AD-d%E1%BB%A5ng-f7a1bb90d109?source=rss-7adc42f88671------2)
 - [Hands-on nhập môn Infrastructure as Code — Terraform + Google Cloud Platform](https://fullstackage.medium.com/hands-on-nh%E1%BA%ADp-m%C3%B4n-infrastructure-as-code-terraform-google-cloud-platform-918a73d6812b?source=rss-7adc42f88671------2)
