@@ -34,6 +34,15 @@
 | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p-le&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="Phu Le's github stats" /></a> | <a href="https://www.youtube.com/c/FullstacKAGE"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-le&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+### Template Repositories
+Practice Infrastructure As Code with my templates
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-le&repo=iac-aws-template-terraform)](https://github.com/p-le/iac-aws-template-terraform)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-le&repo=iac-aws-template-terragrunt)](https://github.com/p-le/iac-aws-template-terragrunt)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-le&repo=iac-aws-template-terraspace)](https://github.com/p-le/iac-aws-template-terraspace)
+
 ---
 
 ### Latest Medium Activities
